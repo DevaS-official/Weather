@@ -37,7 +37,7 @@ import java.util.concurrent.TimeUnit;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String API_KEY = "66efee9151e25caa6894f2028c7d3033";
+    private static final String API_KEY = "66efee9151e25caa6894f2028c7d2022";
     private static final String BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
     TextView temp,minTemp,maxTemp,hum,sunrise,sunset,condition,location;
     SearchView searchView;

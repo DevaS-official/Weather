@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WeatherApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/b1</item>
+        <item name="editTextColor">@color/white</item>
+        <item name="android:textColorHint">@color/b1</item>
+    </style>
+    <style name="SearchViewStyle">
+        <item name="searchIcon">@drawable/search</item>
+        <item name="android:textColor">@color/b1</item>
+    </style>
+</resources>
